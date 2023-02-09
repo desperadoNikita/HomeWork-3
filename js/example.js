@@ -1,6 +1,6 @@
-const age = 17;
-let message;
+const age = 16;
 
+let message;
 if (age >= 18) {
     message = "You are an adult";
     console.log('message :>> ', message);
