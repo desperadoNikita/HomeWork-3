@@ -1,4 +1,4 @@
-const age = 16;
+const age = 22;
 
 let message;
 if (age >= 18) {
